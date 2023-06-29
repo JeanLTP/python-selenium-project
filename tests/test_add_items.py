@@ -1,7 +1,6 @@
 import pytest
 from selenium.webdriver.common.by import By
 import conftest
-from conftest import setup_teardown
 
 
 # Login
